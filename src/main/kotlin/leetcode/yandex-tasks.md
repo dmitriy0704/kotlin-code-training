@@ -46,7 +46,7 @@ queue/stack:
 https://leetcode.com/problems/valid-parentheses/                      - 20(easy)
 
 dfs/bfs:
-https://leetcode.com/problems/number-of-islands/                   - 200(medium)
+https://leetcode.com/problems/number-of-islands/   - порешать      - 200(medium)
 https://leetcode.com/problems/remove-invalid-parentheses/            - 301(hard)
 
 sort:
