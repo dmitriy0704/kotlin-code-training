@@ -24,7 +24,7 @@ linked lists:
 https://leetcode.com/problems/merge-k-sorted-lists/                   - 23(hard)
 https://leetcode.com/problems/linked-list-cycle/                     - 141(easy)
 https://leetcode.com/problems/add-two-numbers/                       - 2(medium)
-https://leetcode.com/problems/reverse-linked-list/                   - 206(easy)
+https://leetcode.com/problems/reverse-linked-list/                   + 206(easy)
 
 binary search:
 https://leetcode.com/problems/binary-search/                         + 704(easy)
@@ -79,6 +79,12 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/  - 
 
 Алгоритмы, которые чаще всего бывают в задачках:
 – сортировки (например, bubble sort или quicksort)
-– разворота одно/двусвязного списка
-– разворота строки
+
+
+– разворот одно/двусвязного списка
+https://leetcode.com/problems/reverse-linked-list/description/       + 206(easy)
+
+– разворот строки
+https://leetcode.com/problems/reverse-string/description
+
 – обхода дерева
