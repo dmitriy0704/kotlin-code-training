@@ -68,7 +68,7 @@ class Solution {
    * Массив стал: ["o","l","l","e","h"].
 
 3. Конец: left = 2, right = 2. Условие left < right больше не выполняется. Цикл
-   завершен. [7, 8]
+   завершен.
 
 ## Трюк в стиле Kotlin
 
@@ -77,22 +77,11 @@ class Solution {
 reverse() для массивов. Она написана под капотом точно так же (in-place через
 указатели), но выглядит аккуратно:
 
+```kotlin
 class Solution {
-fun reverseString(s: CharArray): Unit {
-s.reverse() // Изменяет массив "на месте", не создавая копий
+    fun reverseString(s: CharArray): Unit {
+        s.reverse() // Изменяет массив "на месте", не создавая копий
+    }
 }
-}
+```
 
-Если вы хотите закрепить тему in-place алгоритмов, я могу предложить следующую
-классическую задачу с LeetCode на эту тему (например, 26. Remove Duplicates from
-Sorted Array, где нужно удалить дубликаты из массива «на месте»). Будем
-разбирать?
-
-[1] [https://medium.com](https://medium.com/@poojadas053/in-place-algorithm-2f9b8c95c3f7)
-[2] [https://ysrazsingh.medium.com](https://ysrazsingh.medium.com/understanding-in-place-algorithms-aac34f60eb26)
-[3] [https://www.codechef.com](https://www.codechef.com/learn/course/searching-sorting/SORTSEARCH3/problems/SESO13)
-[4] [https://leetcode-in-kotlin.github.io](https://leetcode-in-kotlin.github.io/src/main/kotlin/g0301_0400/s0344_reverse_string/)
-[5] [https://dev.to](https://dev.to/seanwelshbrown/in-place-algorithms-what-are-they-and-why-use-them-e5p)
-[6] [https://algomap.io](https://algomap.io/problems/reverse-string)
-[7] [https://medium.com](https://medium.com/@saikrishna.a.dev/leetcode-344-reverse-string-eae77e00c91c)
-[8] [https://algo.monster](https://algo.monster/liteproblems/344)

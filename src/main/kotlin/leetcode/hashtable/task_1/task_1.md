@@ -65,13 +65,17 @@ LeetCode. Она идеально подходит для того, чтобы �
 ```kotlin
 class Solution {
     fun twoSum(nums: IntArray, target: Int): IntArray {
-// Ключ: само число, Значение: его индекс в массиве
+
+      // Input: nums = [2,7,11,15], target = 9
+
+      // Ключ: само число, Значение: его индекс в массиве
         val map = HashMap<Int, Int>()
 
         for (i in nums.indices) {
             val current = nums[i]
-            val complement =
-                target - current // Число, которого нам не хватает до target
+
+            // Число, которого нам не хватает до target
+            val complement = target - current
 
             // Проверяем, видели ли мы уже нужную пару ранее
             if (map.containsKey(complement)) {
