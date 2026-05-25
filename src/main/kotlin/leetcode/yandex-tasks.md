@@ -77,14 +77,36 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/  - 122(medium)
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/ - 714(medium)
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/  - 309(m)
 
+
+
 Алгоритмы, которые чаще всего бывают в задачках:
 – сортировки (например, bubble sort или quicksort)
 
-
 – разворот одно/двусвязного списка
 https://leetcode.com/problems/reverse-linked-list/description/       + 206(easy)
+https://leetcode.com/problems/palindrome-linked-list/                - 234(easy)
+https://leetcode.com/problems/reverse-linked-list-ii/description/   - 92(medium)
+https://leetcode.com/problems/swap-nodes-in-pairs/description/      - 24(medium)
+https://leetcode.com/problems/reorder-list/                        - 143(medium)
 
 – разворот строки
-https://leetcode.com/problems/reverse-string/description
+https://leetcode.com/problems/reverse-string/description             + 344(easy)
+https://leetcode.com/problems/reverse-string-ii/description/         - 541(easy)
+https://leetcode.com/problems/reverse-words-in-a-string-iii/description/ - 557(easy)
+https://leetcode.com/problems/reverse-only-letters/                      - 917(easy)
+https://leetcode.com/problems/reverse-words-in-a-string/description/    - 151(medium)
 
 – обхода дерева
+DFS:
+https://leetcode.com/problems/binary-tree-preorder-traversal/           - 144(e)
+https://leetcode.com/problems/binary-tree-inorder-traversal/             - 94(e)
+https://leetcode.com/problems/binary-tree-postorder-traversal/          - 145(e)
+
+Поуровневый обход (BFS) и модификации
+https://leetcode.com/problems/binary-tree-level-order-traversal/description/  - 102(m)
+https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ - 103(m)
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node/ - 116(m)
+
+Обход N-арных деревьев
+https://leetcode.com/problems/n-ary-tree-level-order-traversal/         - 429(m)
+https://leetcode.com/problems/n-ary-tree-preorder-traversal/            - 589(e)
