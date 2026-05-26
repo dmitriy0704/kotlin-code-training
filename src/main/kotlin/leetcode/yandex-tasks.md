@@ -22,7 +22,7 @@ https://leetcode.com/tag/prefix-sum/
 
 linked lists:
 https://leetcode.com/problems/merge-k-sorted-lists/                   - 23(hard)
-https://leetcode.com/problems/linked-list-cycle/                     - 141(easy)
+https://leetcode.com/problems/linked-list-cycle/                     + 141(easy)
 https://leetcode.com/problems/add-two-numbers/                       - 2(medium)
 https://leetcode.com/problems/reverse-linked-list/                   + 206(easy)
 
@@ -46,7 +46,7 @@ queue/stack:
 https://leetcode.com/problems/valid-parentheses/                      - 20(easy)
 
 dfs/bfs:
-https://leetcode.com/problems/number-of-islands/   - порешать      - 200(medium)
+https://leetcode.com/problems/number-of-islands/   - порешать      + 200(medium)
 https://leetcode.com/problems/remove-invalid-parentheses/            - 301(hard)
 
 sort:
@@ -66,9 +66,10 @@ https://leetcode.com/problems/sliding-window-maximum/                - 239(hard)
 https://leetcode.com/problems/longest-repeating-character-replacement/  - 424(m)
 
 tree:
-https://leetcode.com/problems/same-tree/                             - 100(easy)
-https://leetcode.com/problems/symmetric-tree/                        - 101(easy) 
-https://leetcode.com/problems/balanced-binary-tree/                  - 110(easy)
+https://leetcode.com/problems/same-tree/                             + 100(easy)
+https://leetcode.com/problems/symmetric-tree/                        + 101(easy)
+https://leetcode.com/problems/maximum-depth-of-binary-tree/          + 104(easy) 
+https://leetcode.com/problems/balanced-binary-tree/                  + 110(easy)
 https://leetcode.com/problems/path-sum-ii/                         - 113(medium)
 
 greedy problems:
