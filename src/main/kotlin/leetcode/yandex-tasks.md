@@ -38,7 +38,7 @@ hash table:
 https://leetcode.com/problems/single-number/ - решить за O(1) по памяти  -136(e)
 https://leetcode.com/problems/two-sum/                                 + 1(easy)
 https://leetcode.com/problems/4sum/                                 - 18(medium)
-https://leetcode.com/problems/group-anagrams/                       - 49(medium)
+https://leetcode.com/problems/group-anagrams/                       + 49(medium)
 https://leetcode.com/problems/valid-anagram/                         - 242(easy)
 https://leetcode.com/problems/find-all-anagrams-in-a-string/       - 438(medium)
 
