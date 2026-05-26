@@ -92,9 +92,9 @@ https://leetcode.com/problems/reorder-list/                        - 143(medium)
 
 – разворот строки
 https://leetcode.com/problems/reverse-string/description             + 344(easy)
-https://leetcode.com/problems/reverse-string-ii/description/         - 541(easy)
-https://leetcode.com/problems/reverse-words-in-a-string-iii/description/ - 557(easy)
-https://leetcode.com/problems/reverse-only-letters/                      - 917(easy)
+https://leetcode.com/problems/reverse-string-ii/description/         + 541(easy)
+https://leetcode.com/problems/reverse-words-in-a-string-iii/description/ + 557(easy)
+https://leetcode.com/problems/reverse-only-letters/                      + 917(easy)
 https://leetcode.com/problems/reverse-words-in-a-string/description/    - 151(medium)
 
 – обхода дерева
