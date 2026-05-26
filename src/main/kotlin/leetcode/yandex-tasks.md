@@ -73,7 +73,7 @@ https://leetcode.com/problems/balanced-binary-tree/                  + 110(easy)
 https://leetcode.com/problems/path-sum-ii/                         - 113(medium)
 
 greedy problems:
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock/       - 121(easy)
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/       + 121(easy)
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/  - 122(medium)
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/ - 714(medium)
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/  - 309(m)
