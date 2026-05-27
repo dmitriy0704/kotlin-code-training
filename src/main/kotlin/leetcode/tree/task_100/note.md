@@ -66,7 +66,7 @@ class TreeNode(var `val`: Int) {
 }
 class Solution {
     fun isSameTree(p: TreeNode?, q: TreeNode?): Boolean {
-// 1. Если оба узла null, то на этом этапе они одинаковы
+        // 1. Если оба узла null, то на этом этапе они одинаковы
         if (p == null && q == null) return true
 
         // 2. Если один из них null, а второй нет — структура разная
@@ -82,7 +82,6 @@ class Solution {
 }
 
 ```
-
 
 ## Пример работы алгоритма
 
