@@ -21,14 +21,14 @@ prefix sum:
 https://leetcode.com/tag/prefix-sum/
 
 linked lists:
-https://leetcode.com/problems/merge-k-sorted-lists/                   - 23(hard)
 https://leetcode.com/problems/linked-list-cycle/                     + 141(easy)
-https://leetcode.com/problems/add-two-numbers/                       - 2(medium)
 https://leetcode.com/problems/reverse-linked-list/                   + 206(easy)
+https://leetcode.com/problems/add-two-numbers/                       - 2(medium)
+https://leetcode.com/problems/merge-k-sorted-lists/                   - 23(hard)
 
 binary search:
 https://leetcode.com/problems/binary-search/                         + 704(easy)
-https://leetcode.com/problems/guess-number-higher-or-lower/          - 374(easy)
+https://leetcode.com/problems/guess-number-higher-or-lower/       решить   - 374(easy)
 https://leetcode.com/problems/search-a-2d-matrix/                   - 74(medium)
 https://leetcode.com/problems/search-in-rotated-sorted-array/       - 33(medium)
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ -153(medium)
@@ -50,7 +50,7 @@ https://leetcode.com/problems/number-of-islands/                   + 200(medium)
 https://leetcode.com/problems/remove-invalid-parentheses/            - 301(hard)
 
 sort:
-https://leetcode.com/problems/merge-intervals/                      - 56(medium)
+https://leetcode.com/problems/merge-intervals/            решить          - 56(medium)
 
 heap/hash:
 https://leetcode.com/problems/top-k-frequent-words/                - 692(medium)
@@ -59,13 +59,13 @@ https://leetcode.com/problems/top-k-frequent-elements/             - 347(medium)
 two pointers:
 prefix two pointers: https://leetcode.com/problem-list/two-pointers/
 
-https://leetcode.com/problems/container-with-most-water/            - 11(medium)
+https://leetcode.com/problems/container-with-most-water/       решить     - 11(medium)
 https://leetcode.com/problems/partition-labels/                    - 763(medium)
 
 sliding window:
+https://leetcode.com/problems/longest-repeating-character-replacement/  - 424(m)
 https://leetcode.com/problems/sliding-window-median/                 - 480(hard)
 https://leetcode.com/problems/sliding-window-maximum/                - 239(hard)
-https://leetcode.com/problems/longest-repeating-character-replacement/  - 424(m)
 
 tree:
 https://leetcode.com/problems/same-tree/                             + 100(easy)
@@ -96,9 +96,6 @@ https://leetcode.com/problems/reorder-list/                        - 143(medium)
 – двусвязный список
 https://leetcode.com/problems/lru-cache                                 - 146(m)
 
-
-
-
 – разворот строки
 https://leetcode.com/problems/reverse-string                         + 344(easy)
 https://leetcode.com/problems/reverse-string-ii                      + 541(easy)
@@ -106,7 +103,7 @@ https://leetcode.com/problems/reverse-words-in-a-string-iii/         + 557(easy)
 https://leetcode.com/problems/reverse-only-letters/                  + 917(easy)
 https://leetcode.com/problems/reverse-words-in-a-string/           - 151(medium)
 
-– обхода дерева
+– обход дерева
 DFS:
 https://leetcode.com/problems/binary-tree-preorder-traversal/           - 144(e)
 https://leetcode.com/problems/binary-tree-inorder-traversal/             - 94(e)
@@ -127,6 +124,10 @@ https://leetcode.com/problems/n-ary-tree-preorder-traversal/            - 589(e)
 -------
 Задача с банкоматом на жадный алгоритм
 
+-------
+Задача на бинарный поиск 35
+
+
 -----
 Задачи на бинарное дерево:
 
@@ -142,3 +143,5 @@ https://leetcode.com/problems/invert-binary-tree                        - 226(e)
 https://leetcode.com/problems/sum-of-left-leaves                        - 404(e)
 https://leetcode.com/problems/delete-node-in-a-bst            - выбрать - 450(m)
 https://leetcode.com/problems/add-one-row-to-tree                       - 623(m)
+
+
