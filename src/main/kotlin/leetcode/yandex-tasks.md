@@ -59,7 +59,7 @@ https://leetcode.com/problems/top-k-frequent-elements/             - 347(medium)
 two pointers:
 prefix two pointers: https://leetcode.com/problem-list/two-pointers/
 
-https://leetcode.com/problems/container-with-most-water/       решить     - 11(medium)
+https://leetcode.com/problems/container-with-most-water/            + 11(medium)
 https://leetcode.com/problems/partition-labels/                    - 763(medium)
 
 sliding window:
