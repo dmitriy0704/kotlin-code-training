@@ -43,14 +43,14 @@ https://leetcode.com/problems/group-anagrams/                       + 49(medium)
 https://leetcode.com/problems/find-all-anagrams-in-a-string/       - 438(medium)
 
 queue/stack:
-https://leetcode.com/problems/valid-parentheses/                      - 20(easy)
+https://leetcode.com/problems/valid-parentheses/                      + 20(easy)
 
 dfs/bfs:
 https://leetcode.com/problems/number-of-islands/                   + 200(medium)
 https://leetcode.com/problems/remove-invalid-parentheses/            - 301(hard)
 
 sort:
-https://leetcode.com/problems/merge-intervals/            решить          - 56(medium)
+https://leetcode.com/problems/merge-intervals/                      - 56(medium)
 
 heap/hash:
 https://leetcode.com/problems/top-k-frequent-words/                - 692(medium)
