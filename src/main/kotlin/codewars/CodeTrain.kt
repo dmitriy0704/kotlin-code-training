@@ -11,5 +11,6 @@ fun main(){
 
     //3. Ответ:
 
-    return (num1 + num2) == result
+//    return (num1 + num2) == result
+
 }
