@@ -38,6 +38,8 @@ https://leetcode.com/problems/range-sum-query-immutable              + 303(easy)
 https://leetcode.com/problems/subarray-sum-equals-k                     + 560(m)
 https://leetcode.com/problems/minimum-size-subarray-sum                 - 290(m)
 
+Дополнительно:
+
 **525. Contiguous Array** – найти максимальную длину подмассива с
 равным количеством 0 и 1 (заменяем 0 на -1, ищем подмассив с суммой 0).
 **LeetCode 974. Subarray Sums Divisible by K** – количество подмассивов,
@@ -50,33 +52,49 @@ https://leetcode.com/problems/minimum-size-subarray-sum                 - 290(m)
 ## linked lists:
 
 ссылка на тему: https://leetcode.com/problem-list/linked-list/
-
 https://leetcode.com/problems/linked-list-cycle/ (Цикл, Fast & Slow) +141(e)
 https://leetcode.com/problems/reverse-linked-list/   (Реверс)            +206(e)
 https://leetcode.com/problems/add-two-numbers/ (Обход и симуляция)         -2(m)
 https://leetcode.com/problems/merge-k-sorted-lists/                   - 23(hard)
----
-https://leetcode.com/problems/merge-two-sorted-lists/ (Слияние, Dummy Node) +21(
-e)
-https://leetcode.com/problems/remove-linked-list-elements/ (Удаление, Dummy
-Node) + 203(e)
-https://leetcode.com/problems/linked-list-cycle-ii/description/ (Поиск начала
-цикла) +142(m)
+Дополнительно:
+(Слияние, Dummy Node)                                                     +21(e)
+https://leetcode.com/problems/merge-two-sorted-lists/
+(Удаление, Dummy Node)                                                  + 203(e)
+https://leetcode.com/problems/remove-linked-list-elements/
+(Поиск начала цикла)                                                     +142(m)
+https://leetcode.com/problems/linked-list-cycle-ii/description/
+(Два указателя, Dummy Node)                                              - 19(m)
+https://leetcode.com/problems/remove-nth-node-from-end-of-list
 
-https://leetcode.com/problems/remove-nth-node-from-end-of-list (Два указателя, Dummy Node) - 19(m) 
+234
+
+82. Удаление дубликатов
 
 ---
 
 ## Binary Search:
 
+ссылка на тему https://leetcode.com/problem-list/binary-search/
 https://leetcode.com/problems/binary-search/                         + 704(easy)
-https://leetcode.com/problems/guess-number-higher-or-lower/         - 374(easy)
+https://leetcode.com/problems/guess-number-higher-or-lower/         + 374(easy)
 https://leetcode.com/problems/search-a-2d-matrix/                   - 74(medium)
+поворот массива:
+Search in Rotated Sorted Array — вращение.
 https://leetcode.com/problems/search-in-rotated-sorted-array/       - 33(medium)
-https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ -153(medium)
+Search in Rotated Sorted Array II — вращение.
 https://leetcode.com/problems/search-in-rotated-sorted-array-ii/    - 81(medium)
----
-https://leetcode.com/problems/search-insert-position/description/        - 35(e)
+Find Minimum in Rotated Sorted Array — поиск минимума.
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ -153(medium)
+Дополнительно:
+Search Insert Position — lower_bound.
+https://leetcode.com/problems/search-insert-position/                    - 35(e)
+34. Find First and Last Position — обе границы. - m
+74. Search a 2D Matrix — матрица как массив. - m
+875. Koko Eating Bananas — поиск по ответу. - m
+410. Split Array Largest Sum — сложный пример поиска по ответу. - h
+поиску границ (задачи 34, 35),
+поиску в циклически сдвинутом массиве (33, 153)
+«поиску по ответу» (875, 410).
 
 ## hash table:
 
@@ -137,7 +155,7 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-f
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/  -
 309(m)
 
-# Алгоритмы, которые чаще всего бывают в задачках:
+# Дополнительно: Алгоритмы, которые чаще всего бывают в задачках:
 
 – сортировки (например, bubble sort или quicksort)
 – разворот односвязного списка
@@ -148,7 +166,7 @@ https://leetcode.com/problems/swap-nodes-in-pairs/                  - 24(medium)
 https://leetcode.com/problems/reorder-list/                        - 143(medium)
 
 – двусвязный список
-https://leetcode.com/problems/lru-cache/                     - 146(m)
+https://leetcode.com/problems/lru-cache/                                - 146(m)
 
 – разворот строки
 https://leetcode.com/problems/reverse-string                         + 344(easy)
