@@ -27,6 +27,12 @@ https://leetcode.com/problems/remove-duplicates-from-sorted-array        + 26(e)
 https://leetcode.com/problems/remove-element                             + 27(e)
 https://leetcode.com/problems/search-insert-position/                    - 35(e)
 https://leetcode.com/problems/container-with-most-water                  - 11(m)
+
+Дополнительно:
+
+https://leetcode.com/problems/single-number/ - решить за O(1) по памяти + 136(e)
+
+
 ---
 
 ## Prefix Sum:
@@ -90,7 +96,7 @@ Find Minimum in Rotated Sorted Array — поиск минимума.
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ + 153(medium)
 Дополнительно:
 Search Insert Position — lower_bound. Поиск позиции вставки:
-https://leetcode.com/problems/search-insert-position/                    - 35(e)
+https://leetcode.com/problems/search-insert-position/                    + 35(e)
 
 34. Find First and Last Position — обе границы. - m
 74. Search a 2D Matrix — матрица как массив. - m
@@ -98,17 +104,18 @@ https://leetcode.com/problems/search-insert-position/                    - 35(e)
 410. Split Array Largest Sum — сложный пример поиска по ответу. - h
      34, 35 - поиск границ
      33, 153 - поиск в циклически сдвинутом массиве
-     875, 410 - поиску по ответу
+     875, 410 - поиск по ответу
+
+---
 
 ## hash table:
 
 ссылка на тему: https://leetcode.com/problem-list/hash-table/
 
-https://leetcode.com/problems/single-number/ - решить за O(1) по памяти -136(e)
 https://leetcode.com/problems/two-sum/                                 + 1(easy)
-https://leetcode.com/problems/valid-anagram/                         - 242(easy)
-https://leetcode.com/problems/4sum/                                 - 18(medium)
+https://leetcode.com/problems/valid-anagram/                         + 242(easy)
 https://leetcode.com/problems/group-anagrams/                       + 49(medium)
+https://leetcode.com/problems/4sum/                                 - 18(medium)
 https://leetcode.com/problems/find-all-anagrams-in-a-string/       - 438(medium)
 ---
 
