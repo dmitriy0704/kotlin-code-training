@@ -17,6 +17,21 @@
 
 Темы и ссылки, где можно подготовиться к алгоритмам:
 
+## Фокус:
+
+- массивы,
+- строки,
+- хеш-таблицы,
+- деревья
+
+Рекомендуем повторить все, что связано с алгоритмами:
+
+- основные структуры данных — строки, списки, деревья, ассоциативные массивы,
+  векторы;
+- базовые алгоритмы — поиск элементов в коллекциях, обход деревьев, сортировки,
+- динамическое программирование;
+- понятие сложности алгоритмов, O-нотация.
+
 ## Arrays:
 
 Тема: https://leetcode.com/problem-list/array
@@ -33,7 +48,8 @@ Easy:
 Medium:
 
 11. https://leetcode.com/problems/container-with-most-water                    +
-88. 
+88.
+
 ---
 
 ## Prefix Sum:
@@ -129,6 +145,14 @@ https://leetcode.com/problems/longest-substring-without-repeating-characters +
 
 Тема: https://leetcode.com/problem-list/two-pointers/
 
+11, 15, 16, 18, 75, 80, 88, 142 (со списками)
+
+Еще:
+https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
+-28(e)
+https://leetcode.com/problems/rotate-list                                - 61(m)
+https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii      - 82(m)
+
 Easy:
 
 125. (+)Валидация палиндрома:
@@ -142,6 +166,9 @@ Easy:
 283. (+)Move Zeroes (Переместить нули):
      https://leetcode.com/problems/move-zeroes
 
+88. (+)Merge Sorted Array. Объединить два массива.
+    https://leetcode.com/problems/merge-sorted-array
+
 Medium:
 
 11. (+)Container With Most Water
@@ -151,22 +178,51 @@ Medium:
 80. (+)Remove Duplicates from Sorted Array II
     https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii
 
-
-11, 15, 16, 18, 75, 80, 88, 142 (со списками)
-
-Еще:
-https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
--28(e)
-https://leetcode.com/problems/merge-sorted-array                         - 88(e)
-https://leetcode.com/problems/rotate-list                                - 61(m)
-https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii     - 80(m)
-https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii      - 82(m)
-
 ---
 
 ## String
 
 ссылка на тему: https://leetcode.com/problem-list/string/
+
+Типовые задачи на LeetCode для отработки
+
+- Палиндромы – 125. Valid Palindrome, 5. Longest Palindromic Substring (DP или
+  расширение центра).
+- Анаграммы – 242. Valid Anagram, 49. Group Anagrams.
+- Подстроки без повторов – 3. Longest Substring Without Repeating Characters (
+  скользящее окно).
+- Поиск и замена – 28. Find the Index of the First Occurrence (KMP или
+  встроенный indexOf).
+- Общие подпоследовательности – 1143. Longest Common Subsequence (DP).
+- Редакционное расстояние – 72. Edit Distance.
+- Преобразования – 6. Zigzag Conversion, 8. String to Integer (atoi).
+- Шифрование/декодирование – 271. Encode and Decode Strings (для практики работы
+  с разделителями).
+
+Еще: 344, 541, 557, 917
+
+344. (+)Разворот строки
+     https://leetcode.com/problems/reverse-string
+541. (+)Разворот строк II
+     https://leetcode.com/problems/reverse-string-ii
+557. (+)Reverse Words in a String III
+
+
+### Палиндромы:
+
+125. (+)Valid Palindrome
+     https://leetcode.com/problems/valid-palindrome
+5. (+)Longest Palindromic Substring (DP или расширение центра)
+
+---
+
+## tree:
+
+https://leetcode.com/problems/same-tree/                             + 100(easy)
+https://leetcode.com/problems/symmetric-tree/                        + 101(easy)
+https://leetcode.com/problems/maximum-depth-of-binary-tree/   выбрать + 104(e)
+https://leetcode.com/problems/balanced-binary-tree/                  + 110(easy)
+https://leetcode.com/problems/path-sum-ii/                         - 113(medium)
 
 ---
 
@@ -202,14 +258,6 @@ https://leetcode.com/problems/remove-invalid-parentheses/            - 301(hard)
 
 https://leetcode.com/problems/top-k-frequent-words/                - 692(medium)
 https://leetcode.com/problems/top-k-frequent-elements/             - 347(medium)
-
-## tree:
-
-https://leetcode.com/problems/same-tree/                             + 100(easy)
-https://leetcode.com/problems/symmetric-tree/                        + 101(easy)
-https://leetcode.com/problems/maximum-depth-of-binary-tree/   выбрать + 104(e)
-https://leetcode.com/problems/balanced-binary-tree/                  + 110(easy)
-https://leetcode.com/problems/path-sum-ii/                         - 113(medium)
 
 ## greedy problems:
 
